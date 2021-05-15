@@ -1,35 +1,22 @@
-* {
-  padding: 0;
-  margin: 0;
-}
-.word {
-  position: absolute;
-  padding: 0px 10px 10px 520px;
-  top: 80px;
-  z-index: 2;
+
+
+.lista {
+  text-align: center;
 }
 
-.super-mario {
- width: 200px;
- position: absolute;
+.minhaLista {
+  background-color: aquamarine;
+  
 }
 
-.goomba {
- width: 200px;
- position: absolute;
- top: 350px;
-}
-
-.baloon {
-  width: 200px;
-  position: absolute;
-  padding: 0px 10px 10px 500px;
-  z-index: 1;
-}
-
-.bowser {
-  width: 200px;
-  padding: 50px 10px 10px 700px;
+.lis:hover {
+  background-color: blueviolet;
 
 }
+.lis:active {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
+li.motivos {
+  list-style: none;
+}
