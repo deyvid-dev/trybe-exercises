@@ -35,3 +35,35 @@
 li {
   font-size: 20px;
 }
+.python {
+ color: blue;
+}
+.java {
+  color: blue;
+  background-color: pink;
+}
+.javascript {
+  color: blue;
+  background-color: pink;
+}
+.stack:hover {
+  color: orange;
+  font-weight: bold;
+}
+.w3:hover {
+  color: green;
+  font-weight: bold;
+}
+.mdn:hover {
+  color: black;
+  font-weight: bold;
+}
+.dev:hover {
+  color: yellow;
+  font-weight: bold;
+}
+.try:hover {
+  color: lightgreen;
+  font-weight: bold;
+}
+
