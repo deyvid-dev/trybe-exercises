@@ -1,22 +1,29 @@
-
-
-.lista {
-  text-align: center;
+.first {
+  color: aquamarine;
 }
 
-.minhaLista {
-  background-color: aquamarine;
-  
+.second {
+  color: blueviolet;
 }
 
-.lis:hover {
-  background-color: blueviolet;
-
-}
-.lis:active {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.complement {
+  color: blue;
+  font-size: larger;
 }
 
-li.motivos {
-  list-style: none;
+.dark {
+  color: darkblue;
+}
+
+.light {
+  color: lightblue;
+}
+
+div:hover {
+  border: 2px solid red;
+}
+h3 {
+  background-color: bisque;
+  font-family: sans-serif;
+  font-style: italic;
 }
